@@ -1,0 +1,15 @@
+export { default as Navbar } from "./Navbar";
+export { default as Welcome } from "./Welcome";
+export { default as About } from "./About";
+export { default as Services } from "./Services";
+export { default as Apoinment } from "./Apoinment";
+export { default as Team } from "./Team";
+export { default as Benefits } from "./Benefits/Benefits";
+export { default as Testimonials } from "./Testimonials/Testimonials";
+export { default as Locations } from "./Locations/Locations";
+export { default as Footer } from "./Footer";
+export { default as Header } from "./MbcTraining/Header/Header";
+export { default as Roadmap } from "./MbcTraining/Roadmap/Roadmap";
+export { default as HowItWork } from "./MbcTraining/HowItWork/HowItWork";
+export { default as TrainBenefits } from "./MbcTraining/TrainBenefits/TrainBenefits";
+export { default as TrainingFooter } from "./MbcTraining/FooterSlider/TrainingFooter";
